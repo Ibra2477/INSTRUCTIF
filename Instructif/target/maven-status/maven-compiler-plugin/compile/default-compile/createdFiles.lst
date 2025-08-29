@@ -1,0 +1,8 @@
+metier\modele\Personne.class
+metier\modele\Etablissement.class
+metier\modele\Enseignant.class
+metier\modele\Matiere.class
+metier\modele\Eleve.class
+metier\modele\Intervenant.class
+metier\modele\DemandeSoutien.class
+util\Message.class
